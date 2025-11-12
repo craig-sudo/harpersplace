@@ -1,3 +1,4 @@
+
 // src/app/(main)/layout.tsx
 'use client';
 
@@ -23,7 +24,7 @@ export default function AppLayout({
                 {/* Harper's Place Logo */}
                 <div className="flex items-center space-x-2">
                   <div className="w-10 h-10 bg-gradient-to-br from-purple-600 to-indigo-700 rounded-full flex items-center justify-center shadow-lg">
-                    <span className="text-lg font-bold text-white">H</span>
+                    <span className="text-lg font-bold text-white font-headline">H</span>
                   </div>
                   <h1 className="text-xl font-extrabold tracking-tight uppercase font-montserrat">
                     <span className="text-purple-600 dark:text-purple-400">HARPER</span>
